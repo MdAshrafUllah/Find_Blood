@@ -1,0 +1,4 @@
+#Sat Feb 05 22:58:53 BDT 2022
+base.0=C\:\\Users\\Md Ashraf Ullah\\Desktop\\MyApp\\find_blood\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

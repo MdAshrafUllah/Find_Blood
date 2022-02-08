@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632899260739",
+    "project_id": "find-blood-713b6",
+    "storage_bucket": "find-blood-713b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632899260739:android:c211103450b4df47169ff6",
+        "android_client_info": {
+          "package_name": "com.example.f_blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632899260739-tdu8m3fbo7gug3k4h7r9662l913arg46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfTeWBXaBfJz8Y-SazEWl5wDliR9KBmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632899260739-tdu8m3fbo7gug3k4h7r9662l913arg46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
